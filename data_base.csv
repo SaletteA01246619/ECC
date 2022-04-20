@@ -1,0 +1,2 @@
+﻿ID Algoritmo,Emisor,No antes de,No despues de,Sujeto,Clave pública,Algoritmo CP
+ECC, Teleton, 19/04/2022, 30/04/2022, Teleton inc, ECC,"VerifyingKey.from_string(b'\x03-\xf4\x98\xf1\xa4\xe0\xae\x89\xe2\xfcl\x9ex+#\\\x19\x14\xa2sr\xb0\xb8\x1f\xa8\xe8\x19\x00\r\xa5\xd2\xb3', NIST256p, sha1)"
